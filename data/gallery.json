@@ -1,0 +1,274 @@
+{
+  "items": [
+    {
+      "image": "/images/gallery/novias-01.jpg",
+      "alt": "Novia sonriente con ramo de flores blancas en un jardín",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-02.jpg",
+      "alt": "Primer plano de novia pelirroja con maquillaje natural y pendientes",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-03.jpg",
+      "alt": "Novia rubia de perfil luciendo pendientes, con vistas a la ciudad",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-04.jpg",
+      "alt": "Novia morena sonriente con labios rojos y peinado suelto ondulado",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-05.jpg",
+      "alt": "Novia sonriente con peinado semirecogido y ondas naturales",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-06.jpg",
+      "alt": "Novia colocándose un pendiente antes de la ceremonia",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-07.jpg",
+      "alt": "Novia morena con recogido bajo lateral y pendientes de perla, fondo blanco",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-08.jpg",
+      "alt": "Novia con recogido alto trenzado visto desde atrás, en una habitación de hotel",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-09.jpg",
+      "alt": "Novia morena sonriente con peinado semirecogido, con ramo de peonías",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-10.jpg",
+      "alt": "Novia morena de perfil con melena ondulada suelta, sonriendo",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-11.jpg",
+      "alt": "Novia con recogido bajo pulido y tocado de pedrería, de perfil",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-12.jpg",
+      "alt": "Novia con corona de flores mientras le maquillan los ojos",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-13.jpg",
+      "alt": "Novia con trenzas mientras le retocan el maquillaje de labios",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-14.jpg",
+      "alt": "Retrato de una novia con maquillaje de labios rojos y melena ondulada",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-15.jpg",
+      "alt": "Retrato de novia con melena suelta ondulada y maquillaje natural, sonriendo con un jersey blanco",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/novias-16.jpg",
+      "alt": "Primer plano del rostro de una novia con maquillaje natural, mirada luminosa y labios en tono rosado",
+      "category": "novias"
+    },
+    {
+      "image": "/images/gallery/maquillaje-01.jpg",
+      "alt": "Primer plano de ojo y mejilla con maquillaje glow: sombra bronce cobriza, delineado marcado y colorete melocotón luminoso",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-02.jpg",
+      "alt": "Primer plano de labios con maquillaje mate en tono malva rosado y brillo natural",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/invitadas-01.jpg",
+      "alt": "Invitada con vestido verde esmeralda de un hombro, peinado semirecogido y maquillaje natural con labios en tono nude",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-02.jpg",
+      "alt": "Invitada con diadema brillante, ondas sueltas y maquillaje ahumado en tonos tierra para un evento",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-03.jpg",
+      "alt": "Invitada pelirroja con maquillaje ahumado en tonos cobrizos y ciruela para una fiesta",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-04.jpg",
+      "alt": "Primer plano de perfil con maquillaje de ojos en tono ciruela y delineado marcado para invitada",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-05.jpg",
+      "alt": "Invitada de perfil con melena lisa oscura y maquillaje de ojos en tonos rosados",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-06.jpg",
+      "alt": "Invitada con vestido satinado en tono berenjena, peinado recogido y maquillaje natural con brillo luminoso",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-07.jpg",
+      "alt": "Invitada madura con tocado de tul, mientras le aplican maquillaje en los ojos",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-08.jpg",
+      "alt": "Invitada con melena corta rubia y ondas, maquillaje de ojos en tono ciruela y labios rojos",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-09.jpg",
+      "alt": "Invitada con melena castaña recogida y maquillaje natural con delineado azul",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-10.jpg",
+      "alt": "Invitada con melena rizada y maquillaje de labios en tono rosa malva",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/invitadas-11.jpg",
+      "alt": "Invitada con melena rizada pelirroja y maquillaje de ojos en tonos cobrizos",
+      "category": "invitadas"
+    },
+    {
+      "image": "/images/gallery/maquillaje-03.jpg",
+      "alt": "Primer plano de ojo con maquillaje natural en tonos nude y delineado negro con efecto winged",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-04.jpg",
+      "alt": "Primer plano de perfil con maquillaje de ojos glossy en tono nude y labios a juego",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/peluqueria-01.jpg",
+      "alt": "Recogido retro con ondas y rizos definidos en tono cobrizo, vista posterior sobre fondo negro",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-02.jpg",
+      "alt": "Recogido trenzado bajo con textura y mechones con reflejos, vista posterior",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-03.jpg",
+      "alt": "Moño bajo despeinado con mechones sueltos, peinado de invitada en vestido burdeos",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-04.jpg",
+      "alt": "Moño alto con textura y ondas sueltas, cabello rubio con balayage",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-05.jpg",
+      "alt": "Semirecogido con ondas sueltas, peinado en proceso por la profesional, melena castaña con volumen",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-06.jpg",
+      "alt": "Moño alto bien pulido, cabello oscuro liso, con vista de perfil y pendientes",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-07.jpg",
+      "alt": "Coleta baja alta y tensa, cabello castaño con reflejos, vista posterior",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-08.jpg",
+      "alt": "Moño bajo pulido tipo caracol, cabello rubio, peinado de novia con vistas a la ciudad",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-09.jpg",
+      "alt": "Novia rubia de espaldas luciendo un peinado semirecogido con trenza y horquillas de perlas",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-10.jpg",
+      "alt": "Recogido alto estilo vintage con ondas laterales definidas y pendiente de perla, en blanco y negro",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-11.jpg",
+      "alt": "Recogido bajo con flores color champán a un lado, peinado de novia de perfil",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-12.jpg",
+      "alt": "Recogido bajo pulido con flores en tonos tierra, vista desde atrás",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-13.jpg",
+      "alt": "Recogido alto despeinado con rizos y trenzas en la base, en cabello rubio con reflejos",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/peluqueria-14.jpg",
+      "alt": "Peinado de novia visto de espaldas: coleta baja ondulada recogida con horquilla de perlas",
+      "category": "peluqueria"
+    },
+    {
+      "image": "/images/gallery/maquillaje-05.jpg",
+      "alt": "Primer plano de ojo con sombra cobriza y esquina exterior en tono ciruela profundo",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-06.jpg",
+      "alt": "Primer plano de ojo con maquillaje ahumado en tonos marrones y mirada intensa",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-07.jpg",
+      "alt": "Primer plano de labios con acabado glossy en tono terracota rosado",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-08.jpg",
+      "alt": "Primer plano de ojo cerrado con sombra rosa malva y línea inferior en tono ciruela",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-09.jpg",
+      "alt": "Primer plano de ojo con maquillaje ahumado en tonos morados y delineado verde metalizado en el párpado inferior",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-10.jpg",
+      "alt": "Primer plano de ojo con maquillaje ahumado en tonos tierra y delineado marcado",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-11.jpg",
+      "alt": "Primer plano de ojo con maquillaje ahumado y labios en tono fucsia",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-12.jpg",
+      "alt": "Retoque de labios en tono rosa con perfilador, maquillaje de ojos ahumado y delineado marcado",
+      "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/maquillaje-13.jpg",
+      "alt": "Perfil con delineado negro gráfico y coleta alta, maquillaje editorial",
+      "category": "maquillaje"
+    }
+  ]
+}

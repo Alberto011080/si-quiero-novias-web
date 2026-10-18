@@ -1,0 +1,75 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: "es"
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "gallery"
+    label: "Portfolio"
+    label_singular: "Foto"
+    description: "Las fotos que se ven en la sección Portfolio de la web. Arrastra y suelta para reordenar."
+    files:
+      - name: "gallery"
+        label: "Fotos del portfolio"
+        file: "data/gallery.json"
+        fields:
+          - name: "items"
+            label: "Fotos"
+            label_singular: "Foto"
+            widget: "list"
+            summary: "{{fields.category}} — {{fields.alt}}"
+            fields:
+              - name: "image"
+                label: "Foto"
+                widget: "image"
+                media_folder: "/images/gallery"
+                public_folder: "/images/gallery"
+              - name: "category"
+                label: "Categoría"
+                widget: "select"
+                options:
+                  - { label: "Novias", value: "novias" }
+                  - { label: "Maquillaje", value: "maquillaje" }
+                  - { label: "Invitadas", value: "invitadas" }
+                  - { label: "Peluquería", value: "peluqueria" }
+              - name: "alt"
+                label: "Descripción breve de la foto"
+                hint: "Una frase corta describiendo qué se ve (ayuda también a que Google la encuentre)."
+                widget: "string"
+
+  - name: "testimonials"
+    label: "Reseñas"
+    label_singular: "Reseña"
+    description: "Las reseñas que aparecen en la sección «Lo que cuentan nuestras novias»."
+    files:
+      - name: "testimonials"
+        label: "Reseñas de clientas"
+        file: "data/testimonials.json"
+        fields:
+          - name: "items"
+            label: "Reseñas"
+            label_singular: "Reseña"
+            widget: "list"
+            summary: "{{fields.name}} — {{fields.role}}"
+            fields:
+              - name: "name"
+                label: "Nombre de la clienta"
+                widget: "string"
+              - name: "role"
+                label: "Contexto"
+                hint: "Por ejemplo: «Boda en Aranjuez» o «Madrina, boda en Toledo»."
+                widget: "string"
+              - name: "text"
+                label: "Texto de la reseña"
+                widget: "text"
+              - name: "stars"
+                label: "Estrellas"
+                widget: "number"
+                default: 5
+                min: 1
+                max: 5
+                value_type: "int"

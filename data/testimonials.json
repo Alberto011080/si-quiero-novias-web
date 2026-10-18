@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "name": "Carmen R.",
+      "role": "Boda en Aranjuez",
+      "text": "Me sentí completamente yo misma, solo que en mi mejor versión. Justo lo que quería para ese día.",
+      "stars": 5
+    },
+    {
+      "name": "Lucía M.",
+      "role": "Boda en El Escorial",
+      "text": "Desde la prueba hasta el último retoque me sentí súper tranquila. Se nota que lo tiene todo pensado.",
+      "stars": 5
+    },
+    {
+      "name": "Beatriz S.",
+      "role": "Boda en Chinchón",
+      "text": "No solo me encantó el resultado, me hizo sentir muy cuidada durante todo el proceso.",
+      "stars": 5
+    }
+  ]
+}
