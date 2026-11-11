@@ -106,11 +106,6 @@
       "category": "invitadas"
     },
     {
-      "image": "/images/gallery/invitadas-04.jpg",
-      "alt": "Primer plano de perfil con maquillaje de ojos en tono ciruela y delineado marcado para invitada",
-      "category": "invitadas"
-    },
-    {
       "image": "/images/gallery/invitadas-05.jpg",
       "alt": "Invitada de perfil con melena lisa oscura y maquillaje de ojos en tonos rosados",
       "category": "invitadas"
@@ -269,6 +264,16 @@
       "image": "/images/gallery/maquillaje-13.jpg",
       "alt": "Perfil con delineado negro gráfico y coleta alta, maquillaje editorial",
       "category": "maquillaje"
+    },
+    {
+      "image": "/images/gallery/retrato-nupcial-elegante-en-blanco.png",
+      "category": "novias",
+      "alt": "Novia con maquillaje de ojos en tonos ciruela"
+    },
+    {
+      "image": "/images/gallery/retrato-nupcial-en-luz-suave.png",
+      "category": "novias",
+      "alt": "novia maquillaje natural"
     }
   ]
 }
